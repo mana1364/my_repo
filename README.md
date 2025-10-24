@@ -2,4 +2,4 @@ my-repo/
 │
 ├──main.py
 ├── messages.py
-└── README.
+└── README.md
