@@ -1,5 +1,5 @@
 my-repo/
 │
-├──main.py
+├──mai.py
 ├── messages.py
 └── README.md
